@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Desktop\\Elginkan\\101\\Console101\\Console101\\Console101.csproj": {}
+    "C:\\Users\\burak\\Desktop\\Elginkan-Csharp\\101\\Console101\\Console101\\Console101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Desktop\\Elginkan\\101\\Console101\\Console101\\Console101.csproj": {
+    "C:\\Users\\burak\\Desktop\\Elginkan-Csharp\\101\\Console101\\Console101\\Console101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Elginkan\\101\\Console101\\Console101\\Console101.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Elginkan-Csharp\\101\\Console101\\Console101\\Console101.csproj",
         "projectName": "Console101",
-        "projectPath": "C:\\Users\\burak\\Desktop\\Elginkan\\101\\Console101\\Console101\\Console101.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Elginkan-Csharp\\101\\Console101\\Console101\\Console101.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\Elginkan\\101\\Console101\\Console101\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Elginkan-Csharp\\101\\Console101\\Console101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
