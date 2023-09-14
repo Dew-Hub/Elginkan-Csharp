@@ -26,8 +26,31 @@ void Baslat()
 
     Console.Clear();
 
+    ifelsekosulu();
+}
 
+void switchchasekosulu()
+{
 
+    switch (int.Parse(istenen))
+    {
+        case 1:
+            Console.WriteLine("Durum 1");
+            break;
+        case 2:
+            Console.WriteLine("Durum 2");
+            break;
+        case 3:
+            Console.WriteLine("Durum 2");
+            break;
+        case 4:
+            Console.WriteLine("Durum 2");
+            break;
+       
+    }
+}
+void ifelsekosulu()
+{ 
     if (int.Parse(istenen) == 1)
     {
 
@@ -41,7 +64,8 @@ void Baslat()
         Console.Write("İkinci Sayıyı Giriniz: ");
         string test2 = Console.ReadLine();
 
-        int toplam = Convert.ToInt32(test1) + Convert.ToInt32(test2);
+        //test1 ve test2 string değişkeninin içerisindeki verileri int değere dönüştürüp toplam değişkeninin içine atıyoruz
+        int toplam = int.Parse(test1) + int.Parse(test2);
 
         Console.WriteLine("Sonuç: " + toplam);
 
@@ -90,7 +114,7 @@ void Baslat()
         Console.Write("İkinci Sayıyı Giriniz: ");
         string test2 = Console.ReadLine();
 
-        float  toplam = Convert.ToSingle(test1) / Convert.ToSingle(test2);
+        float toplam = Convert.ToSingle(test1) / Convert.ToSingle(test2);
 
         Console.WriteLine("Sonuç: " + toplam);
 
@@ -125,6 +149,4 @@ void Baslat()
             Baslat();
         else;
     }
-
 }
-

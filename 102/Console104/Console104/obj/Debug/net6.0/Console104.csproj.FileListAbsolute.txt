@@ -1,0 +1,14 @@
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\bin\Debug\net6.0\Console104.exe
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\bin\Debug\net6.0\Console104.deps.json
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\bin\Debug\net6.0\Console104.runtimeconfig.json
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\bin\Debug\net6.0\Console104.dll
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\bin\Debug\net6.0\Console104.pdb
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\Console104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\Console104.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\Console104.AssemblyInfo.cs
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\Console104.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\Console104.dll
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\refint\Console104.dll
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\Console104.pdb
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\Console104.genruntimeconfig.cache
+C:\Users\burak\Desktop\Elginkan-Csharp\102\Console104\Console104\obj\Debug\net6.0\ref\Console104.dll
