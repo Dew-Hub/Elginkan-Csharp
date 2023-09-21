@@ -12,6 +12,7 @@ Console.WriteLine("*******************");
 Console.Write("Yapılmak istenen işlem?: ");
 istenen = int.Parse(Console.ReadLine());
 Console.Clear();
+
 if (istenen == 1)
 {
     Console.Write("Kenar: ");
