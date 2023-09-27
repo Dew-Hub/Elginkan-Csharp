@@ -3,14 +3,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        DenizAraci da = new DenizAraci();
+        nesnegoster();
+    }
 
+    public static void nesnegoster()
+    {
+        DenizAraci da = new DenizAraci();
         da.araccinsi = "Motoryat";
         da.agirligi = 5000;
         da.hizi = 20;
-
+        int hiz = da.HizGoster();
+        Console.WriteLine(hiz);
         Console.Read();
-
     }
 }
 
@@ -21,9 +25,10 @@ class DenizAraci
     public int agirligi;
     public byte hizi;
 
-    public void HizGoster()
+    public byte HizGoster()
     {
-        Console.WriteLine(hizi);
+        return(hizi);
+
     }
 
 }
