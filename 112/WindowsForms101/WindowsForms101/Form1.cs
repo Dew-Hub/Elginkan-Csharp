@@ -130,8 +130,8 @@ namespace WindowsForms101
 
         private void txtAranacakIfade_TextChanged(object sender, EventArgs e)
         {
-            DataView dv = new DataView();
-            dv.RowFilter = "ograd LIKE '" + txtAranacakIfade + "%'";
+            DataView dv = dt.DefaultView;
+            dv.RowFilter = "ograd LIKE '" + txtAranacakIfade.Text + "%'";
             dataGridView1.DataSource = dv;
         }
     }
